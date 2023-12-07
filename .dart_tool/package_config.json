@@ -149,10 +149,10 @@
       "name": "first_app",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "3.1"
+      "languageVersion": "2.19"
     }
   ],
-  "generated": "2023-11-30T22:10:02.235599Z",
+  "generated": "2023-12-07T14:19:54.513298Z",
   "generator": "pub",
   "generatorVersion": "3.2.1"
 }
